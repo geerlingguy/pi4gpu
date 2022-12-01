@@ -1,4 +1,4 @@
-PiG artwork has been designed by Krystyna Oniszczuk-Dylik:
+PiG artwork has been designed by Senior Graphic Designer Krystyna Oniszczuk-Dylik:
 https://www.linkedin.com/in/krystyna-oniszczuk-dylik-2559ab151/
 
 Here you can download PNG and PDF file which contain this graphic design:
