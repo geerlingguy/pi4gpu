@@ -2,7 +2,7 @@
 
 This project contains the code and designs for a carrier board intended to unite a Raspberry Pi Compute Module 4 to any manufacturer's GPU.
 
-![CM4 GPU Carrier Board render](renders/cm4_gpu1.png)
+![CM4 GPU Carrier Board render](renders/Pi4GPU_2022-12-03_1.png)
 
 ## Goals
 
