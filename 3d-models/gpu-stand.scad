@@ -4,7 +4,7 @@ $fn = $preview ? 32 : 64;
 translate([5, 5, 0])
     difference() {
         minkowski() {
-            cube(size = [127,220,28], center = false);
+            cube(size = [127,195,28], center = false);
             cylinder(r=5, h=1, center = false);
         }
         translate([5, 16, 10]) {
