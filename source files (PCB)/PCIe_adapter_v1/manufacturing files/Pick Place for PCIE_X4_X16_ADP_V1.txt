@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+E:\Jeff Geerling projekty\PCIE16_raiser\Altium\Project Outputs for PCIE_X4_X16_ADP_V1\Pick Place for PCIE_X4_X16_ADP_V1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30.11.22
+Time:       08:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Center-X(mm) Center-Y(mm) Rotation Layer    Footprint             Description                                                                      MPN              
+R10        DNP                   48.3000      6.5000       270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R9         DNP                   46.9000      6.5000       270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R8         DNP                   45.7500      54.6500      90       TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R7         DNP                   45.5000      6.5000       270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R6         DNP                   44.3500      54.6500      90       TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R5         DNP                   44.1000      6.5000       270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R4         DNP                   42.9500      54.6500      270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R3         DNP                   42.7000      6.5000       90       TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R2         DNP                   13.5000      54.7500      270      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+R1         DNP                   9.8000       23.2500      360      TopLayer RES_0603_R            "Resistor; Thick Film; DNP; TBD; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);" TBD              
+J1         "PCIE x16, 164P, SMD" 55.3500      17.0000      360      TopLayer CON_UMX_91621-120113N "Connector; PCIE x16 (164 pin)"                                                  91621-120113N    
+J2         "PCIE x4, 64P, SMD"   29.4000      46.0000      360      TopLayer CON_UMX_91611-11011T  "Connector; PCIE x4 (64 pin)"                                                    "UMAX 3113-111T" 
