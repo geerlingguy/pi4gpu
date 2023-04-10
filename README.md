@@ -4,7 +4,7 @@ _a.k.a. 'PiG'_
 
 This project contains the code and designs for a carrier board intended to unite a Raspberry Pi Compute Module 4 to any manufacturer's GPU.
 
-![CM4 GPU Carrier Board render](renders/Pi4GPU_2022-12-03_1.png)
+![Pi4GPU with Raspberry Pi Compute Module 4 in front of Nvidia GeForce RTX 4090](renders/pi4gpu-with-4090.jpeg)
 
 The board is not exclusively intended for GPU testing, though—this project is helpful for testing any kind of full-size PCI Express card with a Raspberry Pi Compute Module 4 or any CM4-compatible System on Modules (SoM).
 
