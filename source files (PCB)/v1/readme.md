@@ -5,7 +5,7 @@ https://365.altium.com/files/16D52066-6CA6-4288-87DA-874B35C8B3C8
 
 ## License
 
-Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware Licence).
+Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware License).
 
 ![Screenshot](oshw_facts.png)
 
