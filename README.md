@@ -34,9 +34,15 @@ Early prototype. It works, but there are plenty of improvements to be made! Chec
 
 PCB project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware License).
 
-Pi4GPU (v1) has been certified as Open Source Hardware by the Open Source Hardware Association (OSHWA). UID: PL000014
+Pi4GPU has been certified as Open Source Hardware by the Open Source Hardware Association (OSHWA). 
+
+UID is (for v1): PL000014
 
 https://certification.oshwa.org/pl000014.html
+
+UID is (for v2): PL000016
+
+https://certification.oshwa.org/pl000016.html
 
 ## People
 
